@@ -1,0 +1,9 @@
+---
+:orm: mongomapper
+:test: riot
+:mock: mocha
+:script: none
+:renderer: slim
+:stylesheet: none
+:namespace: PadrinoTest
+:migration_format: number
