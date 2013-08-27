@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/kgfullerton/riot-mongo_mapper.git
+  revision: 8bbe09e611832206d1bcee88e98bbede241a3619
+  specs:
+    riot-mongo_mapper (0.1.0)
+      mongo_mapper (~> 0.12.0)
+      riot (~> 0.12.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -97,4 +105,5 @@ DEPENDENCIES
   rack-test
   rake
   riot
+  riot-mongo_mapper!
   slim

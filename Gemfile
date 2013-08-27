@@ -33,3 +33,4 @@ gem 'padrino', '0.11.3'
 # %w(core gen helpers cache mailer admin).each do |g|
 #   gem 'padrino-' + g, '0.11.3'
 # end
+gem 'riot-mongo_mapper', :group => 'test', :github => 'kgfullerton/riot-mongo_mapper'
